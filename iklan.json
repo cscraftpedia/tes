@@ -1,13 +1,15 @@
-{
-  "admob_interstitial_ad_id": "ca-app-pub-3940256099942544/1033173712",
-  "admob_banner_ad_id": "ca-app-pub-3940256099942544/6300978111",
-  "unity_game_id": "3963931",
-  "unity_interstitial": "interstitial",
-  "unity_banner": "banner",
-  "interstitial_timer": "3",
-  "enable_open_ads": "true",
-  "startapp_id": "",
-  "versi_sekarang": "1.0.0",
-  "pesan_update": "Download aplikasi terbaru sekarang, kalo ngga gua bacok lu",
-  "url_update": "https://play.google.com/store/apps/details?id="
-}
+[
+  {
+    "admob_interstitial_ad_id": "ca-app-pub-3940256099942544/1033173712",
+    "admob_banner_ad_id": "ca-app-pub-3940256099942544/6300978111",
+    "unity_game_id": "3963931",
+    "unity_interstitial": "interstitial",
+    "unity_banner": "banner",
+    "interstitial_timer": "3",
+    "enable_open_ads": "true",
+    "startapp_id": "",
+    "versi_sekarang": "1.0.0",
+    "pesan_update": "Download aplikasi terbaru sekarang, kalo ngga gua bacok lu",
+    "url_update": "https://play.google.com/store/apps/details?id="
+  }
+]
