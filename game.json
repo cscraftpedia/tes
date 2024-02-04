@@ -1,16 +1,18 @@
-{
-  "BENKKSTUDIO": [
-    {
-      "game_name": "Yu-Gi-Oh! Forbidden Memories",
-      "game_image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Yu-Gi-Oh%21_Forbidden_Memories_Cover.png/220px-Yu-Gi-Oh%21_Forbidden_Memories_Cover.png",
-      "game_download": "http://drakorin.xyz/Yu-Gi-Oh! Forbidden Memories.7z",
-      "game_file": "Yu-Gi-Oh! Forbidden Memories.bin"
-    },
-    {
-      "game_name": "Yu-Gi-Oh! Forbidden Memories",
-      "game_image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Yu-Gi-Oh%21_Forbidden_Memories_Cover.png/220px-Yu-Gi-Oh%21_Forbidden_Memories_Cover.png",
-      "game_download": "http://drakorin.xyz/Yu-Gi-Oh! Forbidden Memories.7z",
-      "game_file": "Yu-Gi-Oh! Forbidden Memories.bin"
-    }
-  ]
-}
+[
+  {
+    "BENKKSTUDIO": [
+      {
+        "game_name": "Yu-Gi-Oh! Forbidden Memories",
+        "game_image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Yu-Gi-Oh%21_Forbidden_Memories_Cover.png/220px-Yu-Gi-Oh%21_Forbidden_Memories_Cover.png",
+        "game_download": "http://drakorin.xyz/Yu-Gi-Oh! Forbidden Memories.7z",
+        "game_file": "Yu-Gi-Oh! Forbidden Memories.bin"
+      },
+      {
+        "game_name": "Yu-Gi-Oh! Forbidden Memories",
+        "game_image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Yu-Gi-Oh%21_Forbidden_Memories_Cover.png/220px-Yu-Gi-Oh%21_Forbidden_Memories_Cover.png",
+        "game_download": "http://drakorin.xyz/Yu-Gi-Oh! Forbidden Memories.7z",
+        "game_file": "Yu-Gi-Oh! Forbidden Memories.bin"
+      }
+    ]
+  }
+]
